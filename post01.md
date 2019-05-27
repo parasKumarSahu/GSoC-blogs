@@ -1,5 +1,7 @@
 # Hello Everyone
 
+## May 27, 2019
+
 ## Introduction
 My name is Paras Kumar. I am a sophomore pursuing Computer Science and Engineering at Indian Institute of Technology, Ropar. I like to build useful software and to automate my everyday tasks. It is my dream that one day I develop an application which many people will use every day and it would improve their quality of life. I think Robocomp is the best option to fulfill this purpose because it is an open source robotics framework which can be used to develop software for any kind of robot. In GSoC 2019, I will work on a widely used tool of Robocomp called RCManager.
 
@@ -13,5 +15,3 @@ I will extend this tool to access remote RoboComp installations to create a list
 This extension would be to tackle the need to group sets of components into higher order entities, so visualization is simplified.
 
 I will include the capability to probe the edges in the graph of components so a pop-up window would show in real time the traffic moving through it.
-
-## -Paras Kumar
